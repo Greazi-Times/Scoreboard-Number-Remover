@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Greazi-Times/ScoreboardNumberRemover">
+  <a href="https://github.com/Greazi-Times/Scoreboard-Number-Remover">
     <img src="pack.png" alt="Logo" width="128" height="128">
   </a>
 
@@ -9,15 +9,15 @@
     A resourcepack that allows you to remove the numbers on your scoreboard
     <br />
     <br />
-    <a href="https://github.com/Greazi-Times/TechsDiscordBot-V2">View Documentation</a>
+    <a href="https://github.com/Greazi-Times/Scoreboard-Number-Remover">View Documentation</a>
     ·
-    <a href="https://github.com/Greazi-Times/TechsDiscordBot-V2/issues">Report a Bug</a>
+    <a href="https://github.com/Greazi-Times/Scoreboard-Number-Remover/issues">Report a Bug</a>
   </p>
 </div>
 
 <p align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Greazi-Times/IOT_MQTT" >
-  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Greazi-Times/IOT_MQTT">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Greazi-Times/Scoreboard-Number-Remover" >
+  <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Greazi-Times/Scoreboard-Number-Remover">
 </p>
 
 <br/>
